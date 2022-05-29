@@ -1,0 +1,48 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\bin\Debug\TCPV_1.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\bin\Debug\TCPV_1.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\bin\Debug\Config.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\bin\Debug\Config.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\obj\Debug\TCPV_1.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\obj\Debug\TCPV_1.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\obj\Debug\TCPV_1.ProjectInstaller.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.GenerateResource.cache
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\bin\Debug\TCPV_1.exe
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\bin\Debug\TCPV_1.pdb
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\bin\Debug\Config.dll
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\bin\Debug\Config.pdb
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.ProjectInstaller.resources
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.GenerateResource.cache
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.CoreCompileInputs.cache
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.CopyComplete
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.exe
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.pdb
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.AssemblyReference.cache
+C:\Users\freds\Downloads\Telegram Desktop\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.SuggestedBindingRedirects.cache
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\bin\Debug\TCPV_1.exe
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\bin\Debug\TCPV_1.pdb
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\bin\Debug\Config.dll
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\bin\Debug\Config.pdb
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.ProjectInstaller.resources
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.GenerateResource.cache
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.CopyComplete
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.exe
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.pdb
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.AssemblyReference.cache
+C:\Program Files (x86)\tcp(v2)\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\bin\Debug\TCPV_1.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\bin\Debug\TCPV_1.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\bin\Debug\Config.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\bin\Debug\Config.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\obj\Debug\TCPV_1.ProjectInstaller.resources
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\obj\Debug\TCPV_1.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\obj\Debug\TCPV_1.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\diploma\TCPV_2\TCPV_1\TCPV_1\obj\Debug\TCPV_1.pdb
